@@ -82,7 +82,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevRoh&theme=dracula" height="150" alt="GitHub public statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevRoh&theme=dracula&border_color=ffffff" height="150" alt="GitHub public statistics" />
   <img src="https://raw.githubusercontent.com/DevRoh/DevRoh/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 

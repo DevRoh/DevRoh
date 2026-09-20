@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="left">Hey 👋 Rohit. here</h1>
+<h1 data-importer="text" align="center">Hey 👋 Rohit. here</h1>
 
 ###
 
-<p data-importer="text" align="left">I’m Rohit, a software engineer who likes building things and figuring out how they work.</p>
+<p data-importer="text" align="Center">I’m Rohit, a software engineer who likes building things and figuring out how they work.</p>
 
 ###
 

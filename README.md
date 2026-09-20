@@ -12,8 +12,6 @@
 
 <p data-importer="text" align="left">* 💻 Building full-stack apps<br>* 🚀 Turning ideas into projects<br>* 🌱 Currently learning Spring Boot<br>* 🛠️ Exploring new technologies</p>
 
-<br clear="right" />
-
 <h2 data-importer="text" align="left">Skills</h2>
 
 ###

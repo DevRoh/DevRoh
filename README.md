@@ -8,17 +8,11 @@
 
 <h2 data-importer="text" align="left">About me</h2>
 
-###
-
-<br clear="both">
-
 <img data-importer="image" align="right" height="125" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
-
-###
 
 <p data-importer="text" align="left">* 💻 Building full-stack apps<br>* 🚀 Turning ideas into projects<br>* 🌱 Currently learning Spring Boot<br>* 🛠️ Exploring new technologies</p>
 
-###
+<br clear="right" />
 
 <h2 data-importer="text" align="left">Skills</h2>
 

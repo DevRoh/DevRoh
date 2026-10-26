@@ -61,11 +61,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2026 - To: 24 October 2026
+From: 18 October 2026 - To: 25 October 2026
 
-JavaScript   3 hrs 19 mins         █████████████████████████   99.49 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript   3 hrs 49 mins         ████████████████████████▓   98.15 %
+JSON         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
